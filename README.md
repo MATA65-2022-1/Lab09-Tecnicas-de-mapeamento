@@ -1,2 +1,1 @@
-# Lab09-Tecnicas-de-mapeamento
-Lab09-Tecnicas de Mapeamento
+# Lab09-Técnicas de Mapeamento
